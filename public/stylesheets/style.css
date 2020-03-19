@@ -6,3 +6,11 @@ body {
 a {
   color: #00B7FF;
 }
+
+.welcome
+{
+  padding-top:  50px;
+  width: auto;
+  height: auto;
+  padding-left: 250px;
+}
